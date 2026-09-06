@@ -9,21 +9,6 @@ I work on dialectal Arabic, vision-language models, and educational AI.
 * Building a **new dataset for long-context machine translation between dialectal Arabic and English**.
 * Developing a **benchmark for evaluating long-context capabilities in dialectal Arabic MT**.
 * Built a **tool for in-place tokenizer vocabulary expansion** for pretrained language models.
---- 
-
-### Selected Work
-
-**🏆 1st Place** – AMIYA Shared Task 2026 (VarDial @ EACL)  
-Adapting open-source LLMs for dialectal Arabic
-
-**ImageEval 2025** (ArabicNLP @ EMNLP)  
-From zero-shot to ensembles for grounded Arabic image captioning — official 5th, post-submission 2nd on the leaderboard
-
-**ArGAN** – Accepted at GeBNLP (ACL)  
-A new dataset for evaluating gender, ability, and nationality bias in Arabic NLP
-
-**Yosr** – Bachelor’s Thesis  
-Vision-language models that generate lecture-style explanations in Egyptian dialect, plus dialectal text normalization and hallucination reduction
 
 ---
 
