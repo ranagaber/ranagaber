@@ -35,9 +35,9 @@ Dialectal Arabic NLP • Multimodal learning • Educational AI • Long-context
 
 ### Find me around
 
-[![LinkedIn](www.linkedin.com/in/rana-gaber-11958a303)
-[![Google Scholar](https://scholar.google.com/citations?user=haGBcyClw6EC&hl=en)
-[![Hugging Face](https://huggingface.co/RanaGaber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-gaber-11958a303)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=haGBcyClw6EC&hl=en)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RanaGaber)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranagaber)
 
 📍 Alexandria, Egypt  
