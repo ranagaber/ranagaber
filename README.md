@@ -29,6 +29,3 @@ Dialectal Arabic NLP • Multimodal learning • Educational AI • Long-context
 
 Always happy to chat about Arabic NLP, multimodal systems, or cool research ideas
 
----
-
-*Building things that speak our language — literally.*
